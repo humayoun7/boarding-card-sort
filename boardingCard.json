@@ -1,0 +1,32 @@
+[
+  {
+    "origin":"Los Angeles",
+    "destination":"New York",
+    "meansOfTransportation":"Flight",
+    "seatAssignment":"4A",
+    "transportNumber":"FK77",
+    "date":"2019-09-26T03:16:51.102Z",
+    "gate":"7b",
+    "baggageDetails":"Baggage drop at ticket counter 344."
+  },
+  {
+    "origin":"London",
+    "destination":"Paris",
+    "meansOfTransportation":"Train",
+    "seatAssignment":"33B",
+    "transportNumber":"33N",
+    "date":"2019-09-26T10:16:51.102Z",
+    "gate":"",
+    "baggageDetails":"Baggage will we automatically transferred from your last leg."
+  },
+  {
+    "origin":"New York",
+    "destination":"London",
+    "meansOfTransportation":"Flight",
+    "seatAssignment":"33B",
+    "transportNumber":"33N",
+    "date":"2019-09-26T08:16:51.102Z",
+    "gate":"9",
+    "baggageDetails":"Baggage will we automatically transferred from your last leg."
+  }
+]
